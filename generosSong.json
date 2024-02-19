@@ -1,17 +1,59 @@
 [
   {
     "id": 1,
-    "nombre": "Rock",
-    "imagen": "https://i.scdn.co/image/ab6761610000e5ebee0456d8afc4c63dff458587",
+    "nombre": "Cumbia", "imagen": "https://i.scdn.co/image/ab6761610000e5ebee0456d8afc4c63dff458587",
     "canciones": [
-      { "nombre": "Crimen", "imagen": "https://i.scdn.co/image/ab6761610000e5ebee0456d8afc4c63dff458587", "mp3url": "https://storage.googleapis.com/vkingcode/musica/tres%20acordes%20%20como%20soltarle%20la%20mano%20ala%20vida%20%20Eduard.mp3" },
-      { "nombre": "Canción 2", "imagen": "https://example.com/cancion2.jpg", "mp3url": "https://example.com/mp3/cancion2.mp3" }
+      { "nombre": "Marama - Pasarla bien", "imagen": "https://i.scdn.co/image/ab67616d00001e025ef65e3a30d372a55b19dfa6", "mp3url": "https://storage.googleapis.com/vkingcode/musica/tres%20acordes%20%20como%20soltarle%20la%20mano%20ala%20vida%20%20Eduard.mp3" },
     ]
   },
   {
     "id": 2,
-    "nombre": "Pop",
-    "imagen": "https://example.com/imagen2.jpg",
+    "nombre": "Latino", "imagen": "https://example.com/imagen2.jpg",
+    "canciones": [
+      { "nombre": "Mau Y Ricky ft. Camilo - La Boca", "imagen": "https://i.scdn.co/image/ab67616d0000b273d2ebc81ef0f59b6144e57daa", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Camilo/Mau%20y%20Ricky%2C%20Camilo%20-%20La%20boca%20(audio).mp3" },
+      { "nombre": "Carlos Baute ft. Marta Sanchez - Colgando tus manos", "imagen": "https://i.scdn.co/image/ab67616d0000b273c1428fbb0395f9efac464903", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Carlos%20Baute/Carlos%20Baute%20Ft.%20Marta%20S%C3%A1nchez%20-%20Colgando%20En%20Tus%20Manos%20(Oficial%20Audio).mp3" },
+      { "nombre": "Jesse Y Joy - 3AM", "imagen": "https://i.scdn.co/image/ab67616d00001e021f6379010c486d0658e644f5", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Jesse%20Y%20Joy/3%20A.M%20(feat.%20Tommy%20Torres).mp3" },
+      { "nombre": "Juanes - A Dios le pido", "imagen": "https://i.scdn.co/image/ab67616d0000b273ca8569284c726023968ca460", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Juanes/Juanes%20-%20A%20Dios%20Le%20Pido%20(Remastered%202022)%20%5BVisualizer%5D.mp3" }
+      { "nombre": "Karol G - Mi mala", "imagen": "https://i.scdn.co/image/ab67616d0000b273d6480a8d0d9c85d0c25fd8e0", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Karol%20G/Mau%20y%20Ricky%2C%20Karol%20G%20-%20Mi%20Mala.mp3" }
+      { "nombre": "Karol G - Miedito o qué", "imagen": "https://i.scdn.co/image/ab67616d0000b27391bf841d145c10014e88ea6c", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Karol%20G/Miedito%20o%20Qu%C3%A9.mp3" },
+      { "nombre": "Lali - Sin querer queriendo", "imagen": "https://i.scdn.co/image/ab67616d00001e0233a20faf53f2eefcd6b4a7c3", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Lali/Sin%20Querer%20Queriendo%20ft.%20Mau%20y%20Ricky.mp3" },
+      { "nombre": "Lele Pons - Se te nota", "imagen": "https://i.scdn.co/image/ab67616d0000b273b7ca812abc74e09faeeadbb7", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Lele%20Pons/Lele%20Pons%20ft.%20Guaynaa%20-%20Se%20Te%20Nota.mp3" },
+      { "nombre": "Lola Indigo x Tini x Belinda - La niña de la escuela", "imagen": "https://i.scdn.co/image/ab67616d0000b2737e87978456a3172de50ed428", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Lola%20Indigo/Lola%20Indigo%20X%20TINI%20X%20Belinda%20-%20La%20Ni%C3%B1a%20de%20la%20Escuela%20(Audio).mp3" },
+      { "nombre": "Maluma - Carnaval", "imagen": "https://i.scdn.co/image/ab67616d0000b273c43368aa62f0e675fb46102e", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Maluma/Carnaval.mp3" },
+      { "nombre": "Maria Becerra ft. Sofia Reyes- Marte", "imagen": "https://pbs.twimg.com/media/FLR0FiWWYBE1fnn.jpg", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Maria%20Becerra/Marte%20-%20ft.%20Sofia%20Reyes.mp3" },
+      { "nombre": "Nathy Peluso - Vivir asi es morir de amor", "imagen": "https://i.scdn.co/image/ab67616d0000b273add9c3004bd90375b28696a2", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Nathy%20Peluso/Nathy%20Peluso%20-%20VIVIR%20AS%C3%8D%20ES%20MORIR%20DE%20AMOR.mp3" },
+      { "nombre": "Paulo Londra - Tal Vez", "imagen": "https://i.scdn.co/image/ab6761610000e5ebbdcfc4ed6729fd1e4b63bdba", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Paulo%20Londra/Paulo%20Londra%20-%20Tal%20Vez%20(Audio%20Official).mp3" }
+      { "nombre": "Quevedo - Bizarrap Sesion #52", "imagen": "https://i.scdn.co/image/ab67616d00001e0278839f40be6e333fe91e92ef", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Quevedo/Quevedo%20-%20BZRP%20Music%20Sessions%20%2352.mp3" },
+      { "nombre": "Quevedo - Columbia", "imagen": "https://i.scdn.co/image/ab67616d00001e0278839f40be6e333fe91e92ef", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Quevedo/Quevedo%20-%20Columbia.mp3" }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Pop", "imagen": "https://example.com/imagen2.jpg",
+    "canciones": [
+      { "nombre": "Canción 3", "imagen": "https://example.com/cancion3.jpg", "mp3url": "https://example.com/mp3/cancion3.mp3" },
+      { "nombre": "Canción 4", "imagen": "https://example.com/cancion4.jpg", "mp3url": "https://example.com/mp3/cancion4.mp3" }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Reggaeton", "imagen": "https://example.com/imagen2.jpg",
+    "canciones": [
+      { "nombre": "Canción 3", "imagen": "https://example.com/cancion3.jpg", "mp3url": "https://example.com/mp3/cancion3.mp3" },
+      { "nombre": "Canción 4", "imagen": "https://example.com/cancion4.jpg", "mp3url": "https://example.com/mp3/cancion4.mp3" }
+    ]
+  },
+    {
+    "id": 5,
+    "nombre": "Rock Nacional", "imagen": "https://example.com/imagen2.jpg",
+    "canciones": [
+      { "nombre": "Canción 3", "imagen": "https://example.com/cancion3.jpg", "mp3url": "https://example.com/mp3/cancion3.mp3" },
+      { "nombre": "Canción 4", "imagen": "https://example.com/cancion4.jpg", "mp3url": "https://example.com/mp3/cancion4.mp3" }
+    ]
+  }
+    {
+    "id": 4,
+    "nombre": "Rock", "imagen": "https://example.com/imagen2.jpg",
     "canciones": [
       { "nombre": "Canción 3", "imagen": "https://example.com/cancion3.jpg", "mp3url": "https://example.com/mp3/cancion3.mp3" },
       { "nombre": "Canción 4", "imagen": "https://example.com/cancion4.jpg", "mp3url": "https://example.com/mp3/cancion4.mp3" }
