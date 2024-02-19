@@ -3,7 +3,7 @@
     "id": 1,
     "nombre": "Cumbia", "imagen": "https://i.scdn.co/image/ab6761610000e5ebee0456d8afc4c63dff458587",
     "canciones": [
-      { "nombre": "Marama - Pasarla bien", "imagen": "https://i.scdn.co/image/ab67616d00001e025ef65e3a30d372a55b19dfa6", "mp3url": "https://storage.googleapis.com/vkingcode/musica/tres%20acordes%20%20como%20soltarle%20la%20mano%20ala%20vida%20%20Eduard.mp3" }
+      { "nombre": "Marama - Pasarla bien", "imagen": "https://i.scdn.co/image/ab67616d00001e025ef65e3a30d372a55b19dfa6", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Cumbia/Marama/Marama%20-%20Pasarla%20bien.mp3" }
     ]
   },
   {
