@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "nombre": "Cumbia", "imagen": "https://i.scdn.co/image/ab6761610000e5ebee0456d8afc4c63dff458587",
+    "nombre": "Cumbia", "imagen": "https://i.scdn.co/image/ab67706f00000002f4f3a1dd36b8a39bbc7a6e4f",
     "canciones": [
       { "nombre": "Marama - Pasarla bien", "imagen": "https://i.scdn.co/image/ab67616d00001e025ef65e3a30d372a55b19dfa6", "mp3url": "https://storage.googleapis.com/vkingcode/musica/tres%20acordes%20%20como%20soltarle%20la%20mano%20ala%20vida%20%20Eduard.mp3" },
     ]
   },
   {
     "id": 2,
-    "nombre": "Latino", "imagen": "https://example.com/imagen2.jpg",
+    "nombre": "Latino", "imagen": "https://i.scdn.co/image/ab67706f000000020c49a2b145372a511b082abf",
     "canciones": [
       { "nombre": "Mau Y Ricky ft. Camilo - La Boca", "imagen": "https://i.scdn.co/image/ab67616d0000b273d2ebc81ef0f59b6144e57daa", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Camilo/Mau%20y%20Ricky%2C%20Camilo%20-%20La%20boca%20(audio).mp3" },
       { "nombre": "Carlos Baute ft. Marta Sanchez - Colgando tus manos", "imagen": "https://i.scdn.co/image/ab67616d0000b273c1428fbb0395f9efac464903", "mp3url": "https://storage.googleapis.com/vkingcode/musica/Latino/Carlos%20Baute/Carlos%20Baute%20Ft.%20Marta%20S%C3%A1nchez%20-%20Colgando%20En%20Tus%20Manos%20(Oficial%20Audio).mp3" },
@@ -29,7 +29,7 @@
   },
   {
     "id": 3,
-    "nombre": "Pop", "imagen": "https://example.com/imagen2.jpg",
+    "nombre": "Pop", "imagen": "https://i.scdn.co/image/ab67706f000000020fcb8fdd845c43e6beba8ec6",
     "canciones": [
       { "nombre": "Canción 3", "imagen": "https://example.com/cancion3.jpg", "mp3url": "https://example.com/mp3/cancion3.mp3" },
       { "nombre": "Canción 4", "imagen": "https://example.com/cancion4.jpg", "mp3url": "https://example.com/mp3/cancion4.mp3" }
